@@ -21,22 +21,22 @@
 <!-- window button colors -->
 
 <!-- close -->
-<constant name="C_button_close_bg_focused" value="gtk:custom(wm_button_close_bg,#ff9b4f)" />
-<constant name="C_button_close_bg_hover" value="gtk:custom(wm_button_close_hover_bg,#ffab5f)" />
-<constant name="C_button_close_bg_active" value="gtk:custom(wm_button_close_active_bg,#ef8b3f)" />
+<constant name="C_button_close_bg_focused" value="gtk:custom(wm_button_close_bg,#c25361)" />
+<constant name="C_button_close_bg_hover" value="gtk:custom(wm_button_close_hover_bg,#d26371)" />
+<constant name="C_button_close_bg_active" value="gtk:custom(wm_button_close_active_bg,#b24351)" />
 
-<constant name="C_icon_close_bg" value="gtk:custom(wm_icon_close_bg,#f4f4f4)" />
+<constant name="C_icon_close_bg" value="gtk:custom(wm_icon_close_bg,#ffffff)" />
 
 <!-- minimize, maximize -->
-<constant name="C_button_bg_hover" value="gtk:custom(wm_button_hover_bg,#f4f4f4)" />
-<constant name="C_button_bg_active" value="gtk:custom(wm_button_active_bg,#76BAE6)" />
+<constant name="C_button_bg_hover" value="gtk:custom(wm_button_hover_bg,#ffffff)" />
+<constant name="C_button_bg_active" value="gtk:custom(wm_button_active_bg,#1e72f8)" />
 
-<constant name="C_button_border_hover" value="gtk:custom(wm_button_hover_border,#f4f4f4)" />
+<constant name="C_button_border_hover" value="gtk:custom(wm_button_hover_border,#ffffff)" />
 
-<constant name="C_icon_bg_focused" value="gtk:custom(wm_icon_bg,#f4f4f4)" />
-<constant name="C_icon_bg_unfocused" value="gtk:custom(wm_icon_unfocused_bg,#c0c0c0)" />
-<constant name="C_icon_bg_hover" value="gtk:custom(wm_icon_hover_bg,#c0c0c0)" />
-<constant name="C_icon_bg_active" value="gtk:custom(wm_icon_active_bg,#2E2E2E)" />
+<constant name="C_icon_bg_focused" value="gtk:custom(wm_icon_bg,#ffffff)" />
+<constant name="C_icon_bg_unfocused" value="gtk:custom(wm_icon_unfocused_bg,#c9c9c9)" />
+<constant name="C_icon_bg_hover" value="gtk:custom(wm_icon_hover_bg,#c9c9c9)" />
+<constant name="C_icon_bg_active" value="gtk:custom(wm_icon_active_bg,#333333)" />
 
 <!-- geometries -->
 
