@@ -8,7 +8,7 @@ It comes in two variants for now, dark and normal.
 
 ![](https://raw.githubusercontent.com/berkiyo/akwa/master/screenshots/akwa-dark.png)
 
-## Akwa Screenshot
+## Akwa-light Screenshot
 
 ![](https://raw.githubusercontent.com/berkiyo/akwa/master/screenshots/akwa.png)
 
