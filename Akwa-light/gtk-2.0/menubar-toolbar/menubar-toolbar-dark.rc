@@ -1,6 +1,6 @@
 style "menubar" {
 
-  bg[NORMAL] = "#f2f2f2"
+  bg[NORMAL] = "#e5e5e5"
   fg[NORMAL] = "#000000"
   fg[PRELIGHT] = "#000000"
   fg[ACTIVE] = "#000000"
@@ -23,7 +23,7 @@ style "menubar" {
 
 style "menubar-borderless" {
 
-  bg[NORMAL] = "#f2f2f2"
+  bg[NORMAL] = "#e5e5e5"
   fg[NORMAL] = "#000000"
   fg[SELECTED] = @selected_fg_color
   fg[INSENSITIVE] = shade(0.7, "#000000")
@@ -127,8 +127,8 @@ style "toolbar_button" {
 
 style "toolbar_entry" {
 
-  base[NORMAL] = "#f2f2f2"
-  base[ACTIVE] = "#f2f2f2"
+  base[NORMAL] = "#e5e5e5"
+  base[ACTIVE] = "#e5e5e5"
   base[INSENSITIVE] = "#39404d"
 
   text[NORMAL] = "#000000"
@@ -187,8 +187,8 @@ style "toolbar_entry" {
 #Chromium
 style "chrome-gtk-frame" {
 
-  ChromeGtkFrame::frame-color = "#f2f2f2"
-  ChromeGtkFrame::inactive-frame-color = "#f2f2f2"
+  ChromeGtkFrame::frame-color = "#e5e5e5"
+  ChromeGtkFrame::inactive-frame-color = "#e5e5e5"
 
   ChromeGtkFrame::frame-gradient-size = 0
   ChromeGtkFrame::frame-gradient-color = shade(0.5, @bg_color)
