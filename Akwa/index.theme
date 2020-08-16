@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Akwa
+Comment=A clean and elegant GTK3+ theme that uses Arc styling and the Adwaita colour palette.
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Akwa
+MetacityTheme=Akwa
+IconTheme=Adwaita
+CursorTheme=Adwaita
+ButtonLayout=menu:minimize,maximize,close
