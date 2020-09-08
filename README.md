@@ -1,7 +1,4 @@
 # akwa
-![](https://raw.githubusercontent.com/berkiyo/akwa/master/screenshots/logo.png)
-
-
 Akwa is a theme that uses the Arc styles paired together with the Adwaita colour scheme. This theme was created with the idea of using Arc's slim titlebars and clean lines but also theme it so the colours match the default Adwaita theme, specifically the shell theme. Only the selection colour is different because it just looks better. 
 
 It comes in two variants for now, dark and normal. 
