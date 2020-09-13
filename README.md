@@ -21,8 +21,10 @@ You can clone the repository and move or copy the `Akwa` and `Akwa-dark` themes 
 Alternative, open a terminal and run the one-liner below. This will clone the repository to your `/tmp` folder, create a `.themes` folder if it already doesn't exist, then copy the theme to that directory.
 
 ```bash
-cd /tmp/ && git clone https://github.com/berkiyo/akwa.git && cd akwa && mkdir -p ~/.local/share/themes && cp -r Akwa* ~/.local/share/themes
+cd /tmp/ && git clone https://github.com/berkiyo/akwa.git && cd akwa && mkdir -p ~/.themes && cp -r Akwa* ~/.local/themes
 ```
+
+Alternatively, you can replace `~/.themes` with `~/.local/share/themes` but you won't get GTK2 support.
 
 Once installed, simply activate the theme in GNOME Tweak Tool. 
 
